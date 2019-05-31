@@ -2,15 +2,15 @@
    "data":[  
       {  
          "id":912312,
-         "title":"Dunkirk",
-         "year":"2017",
+         "title":"egypt",
+         "year":"cairo",
          "genre":"History",
          "poster":"https://raw.githubusercontent.com/filippella/Sample-API-Files/master/images/movies/Dunkirk.jpg"
       },
       {  
          "id":11241,
-         "title":"Jumanji: welcome to the jungle",
-         "year":"2017",
+         "title":"amarica",
+         "year":"center",
          "genre":"Action",
          "poster":"https://raw.githubusercontent.com/filippella/Sample-API-Files/master/images/movies/Jumanji.jpg"
       },
